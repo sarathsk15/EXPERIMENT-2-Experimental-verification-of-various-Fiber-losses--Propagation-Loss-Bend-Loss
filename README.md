@@ -9,7 +9,7 @@ To measure propagation and bending losses for two wavelengths in plastic fiber.
 - Patch chords  
 - Oscilloscope  
 - Function Generator  
-- Fiber cables  
+- Fiber cables 
 
 **Theory:**  
 - Losses due to absorption, scattering, bending  
